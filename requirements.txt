@@ -1,0 +1,9 @@
+termcolor
+webdataset
+mpi4py
+moderngl
+glfw
+pyopengl 
+pyopengl-accelerate
+pyglm
+tqdm
