@@ -1,0 +1,10 @@
+*.[__pycache__]
+/nfs
+/.python-version
+
+/output
+/ssd
+/csv/data1k_fromPython
+
+
+
